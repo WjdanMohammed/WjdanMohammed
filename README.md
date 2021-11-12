@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WjdanMohammed
 - 👀 I’m interested in iOS Dev, UX/UI Design.
-- 🌱 I’m currently working on my iOS Development skills.
+- 🌱 I’m currently learning Swift and iOS Development.
+- 📫 u can reach me through wjdanmt@gmail.com 
 
 
 <!---
